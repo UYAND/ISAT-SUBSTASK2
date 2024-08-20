@@ -1,0 +1,2 @@
+int decimal = 10;
+string binary = decToBinary(decimal); // binary = "1010"

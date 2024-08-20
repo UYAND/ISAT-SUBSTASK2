@@ -1,0 +1,2 @@
+string hex = "FF";
+int decimal = hexToDecimal(hex); // decimal = 255
